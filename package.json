@@ -1,0 +1,22 @@
+{
+  "name": "apollox-nasa-space-apps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Apollo X - Interactive NASA Space Exploration Experience for Moon & Mars Missions",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "keywords": [
+    "nasa",
+    "space-apps",
+    "threejs",
+    "moon",
+    "mars",
+    "astronomy",
+    "education"
+  ],
+  "author": "Apollo X Team",
+  "license": "MIT"
+}
